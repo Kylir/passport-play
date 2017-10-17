@@ -2,6 +2,7 @@
   "name": "passport-play",
   "version": "0.0.1",
   "description": "Explore Passport authentication library.",
+  "repository": "https://github.com/Kylir/passport-play.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "debug": "^3.1.0",
     "express": "^4.16.2",
     "express-session": "^1.15.6",
     "passport": "^0.4.0",
